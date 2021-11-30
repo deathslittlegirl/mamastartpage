@@ -12,7 +12,7 @@ input {
 body{
 	font-family: haxrcorp, monospace;
 	font-size:15px;
-	background-color:#F8F8F8;
+	background-color:#000000;
 	background-image: url("img/bg_tile.jpg");
 	background-repeat: repeat;
 }
@@ -41,7 +41,7 @@ body{
     left: -2px;
     right: 190px;
     margin: auto;
-	background-color:#FFFFFF;
+	background-color:#000000;
 	text-align:center;
 }
 
@@ -107,6 +107,7 @@ body{
 	line-height:12px;
 	float:right;
 	margin-left:2px;
+	text-align: center;
 	background-color:#FFFFFF;
 	overflow:hidden;
 }
