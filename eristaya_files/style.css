@@ -12,7 +12,7 @@ input {
 body{
 	font-family: haxrcorp, monospace;
 	font-size:15px;
-	background-color:#F8F8F8;
+	background-color:##000000;
 	background-image: url("img/bg_tile.jpg");
 	background-repeat: repeat;
 }
@@ -149,7 +149,7 @@ body{
 }
 
 .time {
-	color:#FFFFFF;
+	color:#000000;
 	font-family: haxrcorp, monospace;
 	font-size:16px;
 	position: absolute;
