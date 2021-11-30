@@ -13,7 +13,6 @@ body{
 	font-family: haxrcorp, monospace;
 	font-size:15px;
 	background-color:#F8F8F8;
-	background-image: url("img/bg_tile.jpg");
 	background-repeat: repeat;
 }
 
@@ -41,7 +40,7 @@ body{
     left: -2px;
     right: 190px;
     margin: auto;
-	background-color:#000000;
+	background-color:#ffffff;
 	text-align:center;
 }
 
@@ -148,17 +147,6 @@ body{
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-}
-
-.time {
-	color:#FFFFFF;
-	font-family: haxrcorp, monospace;
-	font-size:16px;
-	position: absolute;
-	top: -18px;
-    width: auto;
-	height: auto;
-    left: 2px;
 }
 
 .welcome {
