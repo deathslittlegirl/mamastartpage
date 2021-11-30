@@ -1,0 +1,137 @@
+body {
+background-color: #1c1e1f; 
+color: #e8e6e3; 
+font-family: haxrcorp, monospace;
+font-size: 15px;
+font-weight: 400;
+height: 863px;
+line-height: normal;
+margin: 8px;
+padding: 0px;
+width: 1848px;
+}
+
+#main1 {
+background-color: #181a1b; 
+color: #e8e6e3; 
+font-family: haxrcorp, monospace;
+font-size: 15px;
+font-weight: 400;
+height: 300px;
+line-height: normal;
+margin: 0px -56px 0px 0px;
+padding: 0px;
+width: 536px;
+}
+
+.welcome {
+color: #e8e6e3; 
+font-family: haxrcorp, monospace;
+font-size: 22px;
+font-weight: 400;
+height: 18px;
+line-height: 18px;
+margin: 0px 118px;
+padding: 0px;
+width: 300px;
+}
+
+.bookmarkscontainer {
+color: #e8e6e3; 
+font-family: haxrcorp, monospace;
+font-size: 15px;
+font-weight: 400;
+height: 126px;
+line-height: normal;
+margin: 0px;
+padding: 0px;
+width: 444px;
+}
+
+#main1 > .sidebar {
+background-color: #181a1b; 
+color: #e8e6e3; 
+font-family: haxrcorp, monospace;
+font-size: 15px;
+font-weight: 400;
+height: 319px;
+line-height: normal;
+margin: 0px;
+padding: 0px;
+width: 129px;
+}
+
+#btn1 {
+background-color: #484e51; 
+color: #e8e6e3; 
+font-family: haxrcorp, monospace;
+font-size: 15px;
+font-weight: 400;
+height: 12px;
+line-height: normal;
+margin: 0px 2px 0px 0px;
+padding: 0px;
+width: 12px;
+}
+
+#btn2 {
+background-color: #484e51; 
+color: #e8e6e3; 
+font-family: haxrcorp, monospace;
+font-size: 15px;
+font-weight: 400;
+height: 12px;
+line-height: normal;
+margin: 0px 2px 0px 0px;
+padding: 0px;
+width: 12px;
+}
+
+form[name='form1'] {
+color: #e8e6e3; 
+font-family: haxrcorp, monospace;
+font-size: 15px;
+font-weight: 400;
+height: 12px;
+line-height: normal;
+margin: 0px 0px 15px;
+padding: 0px;
+width: 194px;
+}
+
+#news1 {
+color: #e8e6e3; 
+font-family: haxrcorp, monospace;
+font-size: 15px;
+font-weight: 400;
+height: 12px;
+line-height: 12px;
+margin: 0px;
+padding: 0px 2px;
+width: 296px;
+}
+
+#main2 {
+background-color: #181a1b; 
+color: #e8e6e3; 
+font-family: haxrcorp, monospace;
+font-size: 15px;
+font-weight: 400;
+height: 300px;
+line-height: normal;
+margin: 0px -56px 0px 0px;
+padding: 0px;
+width: 536px;
+}
+
+#time {
+color: #e8e6e3; 
+font-family: haxrcorp, monospace;
+font-size: 16px;
+font-weight: 400;
+height: 12px;
+line-height: normal;
+margin: 0px;
+padding: 0px;
+width: 131px;
+}
